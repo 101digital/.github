@@ -1,10 +1,8 @@
 ### Why
 
-Please give a short description why these code changes are being made.
+Please give a short description why these code changes are being made, by replacing this line..
 
-### Link
-
-https://domain.com/browse/JIRA-000
+Link to Jira ticket: <here>
 
 ### ToDo
 
